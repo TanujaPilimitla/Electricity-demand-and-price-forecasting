@@ -1,6 +1,8 @@
 # Electricity-demand-and-price-forecasting
 Electricity Demand and Price Forecasting using Machine Learning
+
 **Project Overview**
+
 This project aims to develop a machine learning model to forecast electricity demand and prices. The model uses historical data on electricity demand, prices, and weather to make predictions.
 The increasing demand for electricity and the integration of renewable energy sources into the grid have created a need for accurate forecasting of electricity demand and prices. This project aims to develop a machine learning model to forecast electricity demand and prices using historical data on electricity demand, prices, and weather.
 The project focuses on short-term forecasting, predicting electricity demand and prices for the next hour, day, and week. The model is trained on a dataset that includes:
